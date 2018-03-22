@@ -1,0 +1,22 @@
+{
+    "name": "wang/virt-control",
+    "description": "package for php-virt-control ,use the OOP to pack the php-virt-control extension method.",
+    "type": "library",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "wong1989",
+            "email": "skyandsunning@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "ShWang\\VirtControl": "src/"
+        },
+        "files":[
+            "helpers.php"
+        ]
+    }
+}

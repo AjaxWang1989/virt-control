@@ -1,0 +1,31 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="wang">
+    <words>
+      <w>acpi</w>
+      <w>apic</w>
+      <w>authname</w>
+      <w>autoport</w>
+      <w>cdrom</w>
+      <w>dest</w>
+      <w>echoprompt</w>
+      <w>hypervisor</w>
+      <w>libvirt</w>
+      <w>managedsave</w>
+      <w>maxvcpus</w>
+      <w>ncolor</w>
+      <w>nics</w>
+      <w>noechoprompt</w>
+      <w>passphrase</w>
+      <w>poweroff</w>
+      <w>qcow</w>
+      <w>qemu</w>
+      <w>screenshot</w>
+      <w>soundhw</w>
+      <w>sysinfo</w>
+      <w>undefine</w>
+      <w>vcpu</w>
+      <w>vcpus</w>
+      <w>virt</w>
+    </words>
+  </dictionary>
+</component>
